@@ -53,3 +53,4 @@ isort --check src tests main.py
 - **flake8:** OK
 - **mypy:** OK (strict)
 - **isort:** OK
+"# OOP Homework" 
